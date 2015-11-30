@@ -1,0 +1,14 @@
+﻿Build started 26/11/2015 12:40:08.
+     1>Project "C:\Users\avbar\Documents\Visual Studio 2015\Projects\Prueba\Prueba\Prueba.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\avbar\Documents\Visual Studio 2015\Projects\Prueba\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/include/" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\avbar\documents\visual studio 2015\projects\prueba\prueba\source.cpp(89): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\avbar\Documents\Visual Studio 2015\Projects\Prueba\Debug\Prueba.exe" /INCREMENTAL /NOLOGO "C:\Users\avbar\Documents\Visual Studio 2015\Projects\Prueba\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glew32.lib" "C:\Users\avbar\Documents\Visual Studio 2015\Projects\Prueba\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glfw3dll.lib" "C:\Users\avbar\Documents\Visual Studio 2015\Projects\Prueba\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\freeglut.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\avbar\Documents\Visual Studio 2015\Projects\Prueba\Debug\Prueba.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\avbar\Documents\Visual Studio 2015\Projects\Prueba\Debug\Prueba.lib" /MACHINE:X86 Debug\Source.obj
+         Prueba.vcxproj -> C:\Users\avbar\Documents\Visual Studio 2015\Projects\Prueba\Debug\Prueba.exe
+     1>Done Building Project "C:\Users\avbar\Documents\Visual Studio 2015\Projects\Prueba\Prueba\Prueba.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.61
